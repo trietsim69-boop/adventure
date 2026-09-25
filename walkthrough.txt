@@ -1,0 +1,11 @@
+These are answers to the challenges in the room:
+- Gryffindor: sir, godric gryffindor
+- Hufflepuff: sir, 3
+- Ravenclaw: sir, steal
+- Slytherin: sir, open
+There are 3 Hocruxes that need to be destroy which are the cup, the diadem, and the diary. You can destroy
+the cup and the diadem straight away. For the diary, you will need to get the basilisk venom which can be
+obtained by killing the Basilisk in the Chamber of Secrets.
+The path leading to some more hidden areas are "secretpath" from Slytherin to Chamber of Secrets, "outside"
+from Chamber of Secrets to the Last Hocrux, "the top of the castle" to Final Boss.
+You need to defeat Voldemort and also destroy all the Hocruxes to win.
